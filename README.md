@@ -4,30 +4,23 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm Cleiton Nunes!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Backend Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning about software architecture and queues.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: Become a architect.
 
  
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-nunes/)](https://www.linkedin.com/in/cleiton-nunes/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
