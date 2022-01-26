@@ -14,7 +14,7 @@
 
 :books: I’m currently learning about software architecture and queues.
 
-:outbox_tray: 2022 Goals: Become a architect.
+:outbox_tray: 2022 Goals: Develop some personal projects.
 
  
 
