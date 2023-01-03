@@ -10,11 +10,9 @@
 
 :computer: I'm Backend Developer!
 
-:house_with_garden: I’m from Brazil.
+:books: I’m currently learning about DevOps and AWS Cloud services.
 
-:books: I’m currently learning about software architecture and queues.
-
-:outbox_tray: 2022 Goals: Develop some personal projects.
+:outbox_tray: 2023 Goal: Publish Procurando Info project
 
  
 
