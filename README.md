@@ -12,7 +12,7 @@
 
 :books: I’m currently learning about DevOps and AWS Cloud services.
 
-:outbox_tray: 2023 Goal: Publish Procurando Info project
+:outbox_tray: 2023 Goal: Publish The Smart Place project
 
  
 
